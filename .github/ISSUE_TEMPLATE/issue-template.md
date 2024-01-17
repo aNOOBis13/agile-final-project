@@ -5,19 +5,17 @@ title: ''
 labels: ''
 assignees: ''
 
----
 
-**As a** [role]  
- **I need** [function]  
- **So that** [benefit]  
+
+As-a : "Role"  
+I-need" : "function"  
+So-that : "benefit"  
    
- ### Details and Assumptions
- * [document what you know]
+ Details and Assumptions:
+ -document what you know
    
- ### Acceptance Criteria  
-   
- ```gherkin
- Given [some context]
- When [certain action is taken]
- Then [the outcome of action is observed]
- ```
+Acceptance Criteria: 
+ -Given [some context]
+ -When [certain action is taken]
+ -Then [the outcome of action is observed]
+
